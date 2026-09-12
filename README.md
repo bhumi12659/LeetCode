@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/bhumi12659/LeetCode/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/bhumi12659/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/bhumi12659/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/bhumi12659/LeetCode/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
