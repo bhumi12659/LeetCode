@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhumi12659/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/bhumi12659/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1052-grumpy-bookstore-owner](https://github.com/bhumi12659/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhumi12659/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
