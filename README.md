@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/bhumi12659/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhumi12659/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2000-reverse-prefix-of-word](https://github.com/bhumi12659/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2278-percentage-of-letter-in-string](https://github.com/bhumi12659/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhumi12659/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
