@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhumi12659/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/bhumi12659/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/bhumi12659/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/bhumi12659/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhumi12659/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/bhumi12659/LeetCode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/bhumi12659/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/bhumi12659/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Hash Table
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhumi12659/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bhumi12659/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bhumi12659/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
