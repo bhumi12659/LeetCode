@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/bhumi12659/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhumi12659/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/bhumi12659/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhumi12659/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi12659/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/bhumi12659/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhumi12659/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2000-reverse-prefix-of-word](https://github.com/bhumi12659/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhumi12659/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/bhumi12659/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhumi12659/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
