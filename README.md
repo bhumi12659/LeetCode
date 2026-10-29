@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/bhumi12659/LeetCode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/bhumi12659/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/bhumi12659/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0824-goat-latin](https://github.com/bhumi12659/LeetCode/tree/master/0824-goat-latin) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bhumi12659/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-goal-parser-interpretation](https://github.com/bhumi12659/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [2000-reverse-prefix-of-word](https://github.com/bhumi12659/LeetCode/tree/master/2000-reverse-prefix-of-word) |
