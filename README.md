@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bhumi12659/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/bhumi12659/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/bhumi12659/LeetCode/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/bhumi12659/LeetCode/tree/master/0164-maximum-gap) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhumi12659/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/bhumi12659/LeetCode/tree/master/0275-h-index-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhumi12659/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/bhumi12659/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bhumi12659/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/bhumi12659/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/bhumi12659/LeetCode/tree/master/0164-maximum-gap) |
 | [0905-sort-array-by-parity](https://github.com/bhumi12659/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Binary Indexed Tree
@@ -192,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bhumi12659/LeetCode/tree/master/0050-powx-n) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
