@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bhumi12659/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bhumi12659/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/bhumi12659/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/bhumi12659/LeetCode/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/bhumi12659/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/bhumi12659/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/bhumi12659/LeetCode/tree/master/0052-n-queens-ii) |
 ## Bucket Sort
 |  |
 | ------- |
