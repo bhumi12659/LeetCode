@@ -2,6 +2,9 @@ class Solution {
     public int peakIndexInMountainArray(int[] arr) {
         int start =0;
         int end = arr.length-1;
+        if(arr.length==3){
+            return 1;
+        }
         while(start<=end){
             int mid = start+(end-start)/2;
             if(mid == 0){
