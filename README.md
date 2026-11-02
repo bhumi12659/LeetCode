@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bhumi12659/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bhumi12659/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/bhumi12659/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/bhumi12659/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhumi12659/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/bhumi12659/LeetCode/tree/master/0164-maximum-gap) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhumi12659/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhumi12659/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bhumi12659/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/bhumi12659/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhumi12659/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/bhumi12659/LeetCode/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/bhumi12659/LeetCode/tree/master/0131-palindrome-partitioning) |
