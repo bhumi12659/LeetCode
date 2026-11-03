@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhumi12659/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi12659/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhumi12659/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/bhumi12659/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Search
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/bhumi12659/LeetCode/tree/master/0050-powx-n) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhumi12659/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhumi12659/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
