@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bhumi12659/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhumi12659/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/bhumi12659/LeetCode/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/bhumi12659/LeetCode/tree/master/0164-maximum-gap) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhumi12659/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/bhumi12659/LeetCode/tree/master/0275-h-index-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bhumi12659/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhumi12659/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/bhumi12659/LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/bhumi12659/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/bhumi12659/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bhumi12659/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
