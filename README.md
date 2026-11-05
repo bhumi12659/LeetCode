@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/bhumi12659/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhumi12659/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi12659/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/bhumi12659/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhumi12659/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/bhumi12659/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/bhumi12659/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2000-reverse-prefix-of-word](https://github.com/bhumi12659/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi12659/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/bhumi12659/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bhumi12659/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/bhumi12659/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Queue
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/bhumi12659/LeetCode/tree/master/0164-maximum-gap) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhumi12659/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/bhumi12659/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/bhumi12659/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Indexed Tree
 |  |
 | ------- |
