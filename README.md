@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhumi12659/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi12659/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/bhumi12659/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3115-maximum-prime-difference](https://github.com/bhumi12659/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhumi12659/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/bhumi12659/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/bhumi12659/LeetCode/tree/master/0050-powx-n) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhumi12659/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3115-maximum-prime-difference](https://github.com/bhumi12659/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhumi12659/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
@@ -231,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bhumi12659/LeetCode/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/bhumi12659/LeetCode/tree/master/3115-maximum-prime-difference) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/bhumi12659/LeetCode/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
