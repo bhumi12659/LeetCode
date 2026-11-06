@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bhumi12659/LeetCode/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/bhumi12659/LeetCode/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/bhumi12659/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhumi12659/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/bhumi12659/LeetCode/tree/master/0275-h-index-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhumi12659/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhumi12659/LeetCode/tree/master/0204-count-primes) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Simulation
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bhumi12659/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhumi12659/LeetCode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/bhumi12659/LeetCode/tree/master/0204-count-primes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhumi12659/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3115-maximum-prime-difference](https://github.com/bhumi12659/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhumi12659/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -239,9 +242,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhumi12659/LeetCode/tree/master/0204-count-primes) |
 | [3115-maximum-prime-difference](https://github.com/bhumi12659/LeetCode/tree/master/3115-maximum-prime-difference) |
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhumi12659/LeetCode/tree/master/0204-count-primes) |
 | [3115-maximum-prime-difference](https://github.com/bhumi12659/LeetCode/tree/master/3115-maximum-prime-difference) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bhumi12659/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bhumi12659/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
