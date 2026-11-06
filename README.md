@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bhumi12659/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bhumi12659/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhumi12659/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/bhumi12659/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/bhumi12659/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bhumi12659/LeetCode/tree/master/0078-subsets) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhumi12659/LeetCode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhumi12659/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Enumeration
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhumi12659/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhumi12659/LeetCode/tree/master/0050-powx-n) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhumi12659/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3115-maximum-prime-difference](https://github.com/bhumi12659/LeetCode/tree/master/3115-maximum-prime-difference) |
