@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi12659/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/bhumi12659/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3115-maximum-prime-difference](https://github.com/bhumi12659/LeetCode/tree/master/3115-maximum-prime-difference) |
+| [3151-special-array-i](https://github.com/bhumi12659/LeetCode/tree/master/3151-special-array-i) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhumi12659/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/bhumi12659/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
