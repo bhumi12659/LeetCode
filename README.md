@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/bhumi12659/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/bhumi12659/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhumi12659/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/bhumi12659/LeetCode/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/bhumi12659/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumi12659/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhumi12659/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bhumi12659/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhumi12659/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/bhumi12659/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/bhumi12659/LeetCode/tree/master/1051-height-checker) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/bhumi12659/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Indexed Tree
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bhumi12659/LeetCode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/bhumi12659/LeetCode/tree/master/1051-height-checker) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bhumi12659/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/bhumi12659/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
