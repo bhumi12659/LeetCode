@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/bhumi12659/LeetCode/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/bhumi12659/LeetCode/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/bhumi12659/LeetCode/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/bhumi12659/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bhumi12659/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/bhumi12659/LeetCode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/bhumi12659/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhumi12659/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/bhumi12659/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/bhumi12659/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bhumi12659/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhumi12659/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhumi12659/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/bhumi12659/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/bhumi12659/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/bhumi12659/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/bhumi12659/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhumi12659/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
