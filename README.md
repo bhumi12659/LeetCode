@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/bhumi12659/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/bhumi12659/LeetCode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/bhumi12659/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/bhumi12659/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhumi12659/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/bhumi12659/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/bhumi12659/LeetCode/tree/master/0877-stone-game) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhumi12659/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/bhumi12659/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/bhumi12659/LeetCode/tree/master/0739-daily-temperatures) |
 | [2000-reverse-prefix-of-word](https://github.com/bhumi12659/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/bhumi12659/LeetCode/tree/master/0877-stone-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/bhumi12659/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
