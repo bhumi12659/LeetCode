@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/bhumi12659/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhumi12659/LeetCode/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/bhumi12659/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/bhumi12659/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/bhumi12659/LeetCode/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/bhumi12659/LeetCode/tree/master/0371-sum-of-two-integers) |
