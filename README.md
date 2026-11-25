@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/bhumi12659/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi12659/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/bhumi12659/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/bhumi12659/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhumi12659/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/bhumi12659/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhumi12659/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/bhumi12659/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhumi12659/LeetCode/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi12659/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhumi12659/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/bhumi12659/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Manacher
 |  |
 | ------- |
