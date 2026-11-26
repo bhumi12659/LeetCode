@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/bhumi12659/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumi12659/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhumi12659/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/bhumi12659/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bhumi12659/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bhumi12659/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi12659/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhumi12659/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/bhumi12659/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhumi12659/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/bhumi12659/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Ternary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/bhumi12659/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bhumi12659/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/bhumi12659/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/bhumi12659/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Stack
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/bhumi12659/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/bhumi12659/LeetCode/tree/master/0682-baseball-game) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/bhumi12659/LeetCode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhumi12659/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhumi12659/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/bhumi12659/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
