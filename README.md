@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/bhumi12659/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhumi12659/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/bhumi12659/LeetCode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [4102-count-valid-substrings-i](https://github.com/bhumi12659/LeetCode/tree/master/4102-count-valid-substrings-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/bhumi12659/LeetCode/tree/master/0204-count-primes) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/bhumi12659/LeetCode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [4102-count-valid-substrings-i](https://github.com/bhumi12659/LeetCode/tree/master/4102-count-valid-substrings-i) |
 ## Simulation
 |  |
 | ------- |
